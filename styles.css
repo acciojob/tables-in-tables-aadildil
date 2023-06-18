@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-table,td,caption,th{
+table,td,th{
     border: 2px solid black;
     text-align: center;
 }
