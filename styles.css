@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table,td,caption,th{
+    border: 2px solid black;
+    text-align: center;
+}
+tr
+{
+    text-align: center;
+}
+th{
+    white-space: nowrap;
+}
+
+td
+{
+    vertical-align: middle;
+}
